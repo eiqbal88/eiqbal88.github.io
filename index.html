@@ -5,6 +5,17 @@ title: "Home"
     url: "/projects"
   - title: "Blog"
     url: "/blog"
+<header>
+  <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+  <nav>
+    <ul>
+      {% for item in site.navigation %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
+
 ---
 
 {% if site.show_excerpts %}
