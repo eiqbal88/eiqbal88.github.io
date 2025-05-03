@@ -14,6 +14,5 @@ My career interests lie in **strategy and consulting**, as well as **venture cap
 I’m currently seeking opportunities to contribute to forward-thinking teams and continue learning through hands-on experience.
 
 👉 [Download My CV (PDF)](/assets/Emaad_Iqbal_Resumé_.pdf)
-
 📧 **Email**: [emaadfiqbal@gmail.com](mailto:emaadfiqbal@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/emaad-iqbal](https://www.linkedin.com/in/emaad-iqbal)
