@@ -5,7 +5,7 @@ layout: page
 
 # Projects
 
-## 🏟️ U.S. Soccer | Data Consultant (June 2020 – Present)
+## 🏟️ U.S. Soccer | Data Consultant (Jan 2025 – Present)
 Worked with a team to enhance U.S. Soccer’s match operations through data visualization.
 
 - Built an interactive Tableau dashboard integrating multiple Excel datasets (ticket sales, venue availability, event calendar).
