@@ -17,11 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 Home: index.md
-  - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "Projects"}
-  - {file: "docs/about.md", title: "Skills", icon: skills}
-  - {file: "docs/contact.md", title: "CV", icon: CV}
-  - {file: "docs/tutorials.md", title: "Others", icon: other}
+  - {file: "Emaad_Iqbal_Resume_.pdf", title: "CV", icon: home}
+  - {title: "Projects"}
+  - {title: "Skills"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
