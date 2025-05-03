@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 Home: index.md
-  - {file: "Emaad_Iqbal_Resume_.pdf", title: "CV", icon: home}
+  - {file: "Emaad_Iqbal_Resume_.pdf", title: "CV"}
   - {title: "Projects"}
   - {title: "Skills"}
 
