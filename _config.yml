@@ -16,15 +16,15 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: /assets/Emaad_Iqbal_.pdf, title: "CV"}
+  - {url: /assets/Emaad_Iqbal_pdf, title: "CV"}
   - {title: "Projects"}
   - {title: "Skills"}
   - {title: "Other"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "emaadfiqbal@gmail.com"}
-  - {title: Linkdin, icon: linkdin, url: "www.linkedin.com/in/emaad-iqbal"}
+  - {title: Mail, icon: envelope, url: "mailto:emaadfiqbal@gmail.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/emaad-iqbal"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
