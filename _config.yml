@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Emaad_Iqbal_Resume_.pdf", title: "CV"}
   - {title: "Projects"}
   - {title: "Skills"}
+  - {title: "Other"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
