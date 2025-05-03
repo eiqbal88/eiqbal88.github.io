@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **About Me**
+title: "About Me"
 ---
 
 I’m a fourth-year Business Management student at [Georgia Institute of Technology], concentrating in Strategy and Innovation with a minor in FinTech. 
