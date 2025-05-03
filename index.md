@@ -12,3 +12,5 @@ I’m passionate about applying strategic thinking and creative problem-solving 
 My career interests lie in **strategy and consulting**, as well as **venture capital and private equity**, where I can help organizations grow, adapt, and lead in dynamic environments.
 
 I’m currently seeking opportunities to contribute to forward-thinking teams and continue learning through hands-on experience.
+
+👉 [Download My CV (PDF)](/assets/Emaad_Iqbal_Resumé_.pdf)
